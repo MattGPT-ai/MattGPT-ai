@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Matt Buchovecky. I am a Machine Learning Engineer and Data Scientist specializing in Deep Learning, NLP, and Computer Vision.
 <!--
 **MattGPT-ai/MattGPT-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
