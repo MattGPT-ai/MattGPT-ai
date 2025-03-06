@@ -1,6 +1,6 @@
 # Matt Buchovecky 🔭
 Hello! I am a Machine Learning Engineer and Data Scientist specializing in Deep Learning, NLP, and Computer Vision. 
-Have a look-see at some highlights of my work and accomplishments
+Have a look-see at some highlights of my work and accomplishments!
 
   <a href="https://www.linkedin.com/in/matthew-buchovecky/">
   <img align="left" alt="Matt's LinkedIn" width="22px" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/linkedin/linkedin-original.svg" />
@@ -13,7 +13,7 @@ Have a look-see at some highlights of my work and accomplishments
 
 ### ZipRecruiter Resume Parser
 <img width="1154" alt="ziprecruiter_resume_parser_screen" src="https://github.com/user-attachments/assets/94650985-d679-46c3-ad2a-4933cb132e17" />
-Acting as tech lead, my team trained a more powerful and resume parser for www.ziprecruiter.com
+Acting as tech lead, my team trained a more powerful and accurate resume parser for the www.ziprecruiter.com website. By training on a more powerful architecture with multitask learning, this model extracts many more fields at a higher rate of precision and recall than previous models.
 
 
 ## Open-source Contributions
@@ -24,7 +24,7 @@ I led the effort on an open source tool that converts projects from Poetry to uv
 https://github.com/ZipRecruiter/poetry2uv
 
 ### Fast Censor
-A versatile open source tool I created for scrubbing profanity from text. Using a more efficient algorithm, it outperforms alternatives like better-profanity by orders of magnitude
+A versatile open source tool I created for scrubbing profanity from text. Using a more efficient algorithm, it outperforms alternatives like better-profanity by orders of magnitude.
 
 [Fast Censor on PyPi](https://pypi.org/project/fast-censor/)
 
